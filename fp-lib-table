@@ -7,4 +7,7 @@
   (lib (name "CustomNetTie")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-footprints/CustomNetTie.pretty")(options "")(descr ""))
   (lib (name "PgndNetTie")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-footprints/PgndNetTie.pretty")(options "")(descr ""))
   (lib (name "QRcode")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-footprints/QRcode.pretty")(options "")(descr ""))
+  (lib (name "Rick_roll")(type "KiCad")(uri "${KIPRJMOD}/lib/Rick_roll.pretty")(options "")(descr ""))
+  (lib (name "Basic_megamind")(type "KiCad")(uri "${KIPRJMOD}/lib/Basic_megamind.pretty")(options "")(descr ""))
+  (lib (name "Shitposting")(type "KiCad")(uri "${KIPRJMOD}/lib/Shitposting.pretty")(options "")(descr ""))
 )
